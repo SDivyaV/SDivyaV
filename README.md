@@ -3,7 +3,7 @@
 I'm a passionate **Software Engineer** with a strong focus on **MERN stack development, frontend technologies and cloud computing**. I love building innovative and user-centric applications.  
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on a **Vehicle Parking Management System (MERN)**  
+- 🔭 I’m currently working on a **Vehicle Parking Management System (React.js)**  
 - 🌱 I’m learning **Next.js** to enhance my frontend skills  
 - 👯 I’m open to collaboration on **MERN projects,React and JavaScript based apps solutions**  
 - 🤔 I’m looking for **job opportunities** in Software Development, Frontend Development  
