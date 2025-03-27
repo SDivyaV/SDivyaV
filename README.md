@@ -5,9 +5,9 @@ I'm a passionate **Software Engineer** with a strong focus on **MERN stack devel
 ### 🚀 About Me  
 - 🔭 I’m currently working on a **Vehicle Parking Management System (MERN)**  
 - 🌱 I’m learning **Next.js** to enhance my frontend skills  
-- 👯 I’m open to collaboration on **MERN projects and React based apps solutions**  
-- 🤔 I’m looking for **job opportunities** in Software Development  
-- 💬 Ask me about **React, MERN, and Cloud Computing (AWS)**  
+- 👯 I’m open to collaboration on **MERN projects,React and JavaScript based apps solutions**  
+- 🤔 I’m looking for **job opportunities** in Software Development, Frontend Development  
+- 💬 Ask me about **React, MERN, JavaScript, SQL and Cloud Computing (AWS)**  
 - ⚡ Fun fact: I enjoy **fitness activities ** to boost focus and relaxation  
 
 
