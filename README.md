@@ -3,12 +3,14 @@
 I'm a passionate **Software Engineer** with a strong focus on **MERN stack development, frontend technologies and cloud computing**. I love building innovative and user-centric applications.  
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on a **Vehicle Parking Management System (React.js)**  
+- 🔭 2024 Computer Engineering graduate passionate about transforming **real-world ideas into impactful digital experiences**. **Skilled in Frontend & MERN stack development**
 - 🌱 I’m learning **Next.js** to enhance my frontend skills  
 - 👯 I’m open to collaboration on **MERN projects,React and JavaScript based apps solutions**  
 - 🤔 I’m looking for **job opportunities** in Software Development, Frontend Development  
 - 💬 Ask me about **React, MERN, JavaScript, SQL and Cloud Computing (AWS)**  
-- ⚡ Fun fact: I enjoy **fitness activities ** to boost focus and relaxation  
+- ⚡ Fun fact: I enjoy **fitness activities ** to boost focus and relaxation
+- 🎯 Passionate about creating meaningful, user-friendly web apps
+- 🚀 Always learning, building & growing 
 
 
 💻 **Let's build something amazing together!** 🚀  
