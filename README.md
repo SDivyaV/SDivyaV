@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Divya Sawant!  
 
-I'm a passionate **Software Engineer** with a strong focus on **MERN stack development, frontend technologies and cloud computing**. I love building innovative and user-centric applications.  
+I'm a passionate **Software Engineer** with a strong focus on **web development, frontend technologies and cloud computing**. I love building innovative and user-centric applications.  
 
 ### 🚀 About Me  
 - 🔭 2024 Computer Engineering graduate passionate about transforming **real-world ideas into impactful digital experiences**. **Skilled in Frontend & MERN stack development**
